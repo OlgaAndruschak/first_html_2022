@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.target{
+    background: silver;
+    width: 400px;
+    height: 400px;
+
+
+   box-sizing: border-box;
+    padding-left: 40px;
+    padding-right: 50px;
+    padding-bottom: 90px;
+    padding-top: 130px;
+
+border: 10px solid indigo;
+    border-radius: 10px;
+    border-top-left-radius: 100px;
+    margin: 0 auto;
+
+}
