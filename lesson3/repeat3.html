@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+    <style>
+        #container{
+            background: silver;
+            display: flex;
+            height: 600px;
+
+            /*flex-direction: row;*/
+            /*justify-content: flex-start;*/
+            /*justify-content: space-between;*/
+            /*justify-content: space-evenly;*/
+            justify-content:flex-start;
+            align-items: stretch;
+            flex-wrap: wrap;
+
+        }
+
+        .a{
+            /*width: 200px;*/
+            height: 200px;
+            background: #000;
+            flex-basis: 300px;
+        }
+        .b{
+            /*width: 200px;*/
+            height: 300px;
+            flex-basis: 400px;
+            background: cornflowerblue;
+        }
+        /*.c{*/
+        /*    width: 200px;*/
+        /*    height: 200px;*/
+        /*    background: red;*/
+        }
+        /*#container>div{*/
+        /*    margin-left: 5%;*/
+        /*    margin-right: 5%;*/
+        }
+    </style>
+</head>
+<body>
+
+<div id="container">
+    <div class="a"></div>
+    <div class="b"></div>
+    <div class="c"></div>
+
+
+</div>
+</body>
+</html>
