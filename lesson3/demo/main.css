@@ -1,0 +1,25 @@
+.product-card{
+    width: 250px;
+    height: 453px;
+    background: silver;
+}
+
+.product-card>h3{
+    background: #18467b;
+    text-align: center;
+    margin: 0
+}
+.product-card>p{
+    box-sizing: border-box;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.product-card>img {
+    padding-left: 30px;
+}
+.products{
+    display: flex;
+    justify-content: space-evenly;
+
+}
