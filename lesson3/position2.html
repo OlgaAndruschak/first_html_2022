@@ -4,37 +4,76 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <script src="https://kit.fontawesome.com/b8a8c28b71.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/b8a8c28b71.js" crossorigin="anonymous"></script>
     <style>
         .nmb {
+            box-sizing: border-box;
             display: flex;
             background: silver;
             width: 500px;
             height: 80px;
             justify-content: space-between;
             align-items: center;
-            padding-left: 20px;
-
-
+            padding-right: 30px;
+            padding-left: 30px;
+            align-content: flex-start;
         }
 
         .target {
-            background: #18467b;
+            background: #142d42;
             height: 30px;
             width: 80px;
             border-radius: 8px;
-
         }
 
-        .nmb > i {
+        .nmb i {
             font-size: 20px;
+            margin-left: 20px;
         }
+
+        .sec {
+            display: flex;
+            background: #112c3e;
+            width: 500px;
+            height: 200px;
+            justify-content: center;
+            align-items: flex-end;
+        }
+
+        .sec2 {
+            background: #ced8e1;
+            width: 500px;
+            height: 100px;
+        }
+        .child1{
+            margin: 5px;
+            background: #6a65e2;
+            width: 100px;
+            height: 100px;
+            position: relative;
+            top: 25%;
+            border-radius: 20px;
+        }
+
+
     </style>
 </head>
 <body>
 <div class="nmb">
     <div class="target"></div>
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <div>
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <i class="fa-solid fa-align-justify"></i>
+    </div>
 </div>
+<div class="sec">
+
+    <div class="child1"></div>
+    <div class="child1"></div>
+    <div class="child1"></div>
+</div>
+
+<div class="sec2"></div>
 
 </body>
 </html>
