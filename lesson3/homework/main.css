@@ -1,0 +1,88 @@
+.target{
+    background: white;
+    display: flex;
+    flex-direction: row;
+   margin-top: 50px;
+
+}
+.first{
+    margin: 10px;
+    border: 1px black solid;
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.kolo{
+    box-sizing: border-box;
+    padding:24px 0;
+    border: 1px black solid;
+    background: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 500%;
+    position: relative;
+    bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cp{
+    text-align: center;
+}
+.pf{
+    text-align: center;
+    margin: 30px;
+}
+.lm{
+    border: 1px black solid;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 0;
+}
+.kolo>i{
+    font-size: 30px;
+}
+.second {
+    margin: 10px;
+    border: 1px black solid;
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.kolo2>i{
+    font-size: 30px;
+}
+.kolo2{
+    box-sizing: border-box;
+    padding:24px 0;
+    border: 1px black solid;
+    background: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cp2{
+    text-align: center;
+}
+.pf2{
+    text-align: center;
+    margin: 30px;
+}
+.lm2{
+    border: 1px black solid;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 0;
+}
