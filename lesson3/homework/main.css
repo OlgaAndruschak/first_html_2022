@@ -72,6 +72,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 .cp2{
     text-align: center;
@@ -85,4 +86,43 @@
     padding: 20px;
     font-size: 20px;
     margin-top: 0;
+}
+.third{
+    margin: 10px;
+    border: 1px black solid;
+    width: 300px;
+    height: 400px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+
+
+}
+.kolo3>i{
+    font-size: 30px;
+}
+.kolo3{
+    box-sizing: border-box;
+    padding:24px 0;
+    border: 1px black solid;
+    background: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pf3{
+    text-align: center;
+    margin-top: 30px;
+}
+.lm3{
+    border: 1px black solid;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 30px;
 }
