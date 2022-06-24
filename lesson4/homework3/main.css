@@ -1,0 +1,58 @@
+
+.container{
+    width: 450px;
+    height: 500px;
+}
+.bg-blue{
+    background: #246abb;
+}
+.title{
+    height: 200px;
+    width: 450px;
+}
+.Title_2{
+    font-size: 30px;
+    font-weight: lighter;
+    color: white;
+}
+.bg-blue.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg-dkblue{
+    background: #18467b;
+}
+.container{
+    width: 500px;
+}
+.w150{
+    width: 148.7px;
+}
+.h180{
+    height: 180px;
+}
+.middle{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2px;
+
+}
+.margin-r{
+    margin-right: 2px;
+}
+.contact{
+    width: 450px;
+    height: 350px;
+    margin-top: 2px;
+}
+.Title_3{
+    font-size: 30px;
+    font-weight: lighter;
+    color: white;
+}
+.contact.bg-blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,49 @@
+.w300 {
+    width: 300px;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.bg-red {
+    background: red;
+}
+
+.brd_bl_solid {
+    border: 1px black solid;
+}
+
+.w150 {
+    width: 190px;
+}
+
+.h80 {
+    height: 80px;
+}
+
+.bg-green {
+    background: green;
+}
+
+.purple {
+    background: purple;
+    width: 110px;
+    height: 170px;
+    margin-top: 5px;
+}
+
+.middle {
+    display: flex;
+}
+
+.twins {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0 5px 5px;
+
+}
+
+.mg-top5 {
+    margin-top: 5px;
+}
