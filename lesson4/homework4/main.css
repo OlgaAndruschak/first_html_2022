@@ -1,0 +1,32 @@
+
+.title{
+    margin: 50px;
+}
+.header{
+    height: 50px;
+    width: 250px;
+    background: #18467b;
+}
+
+.h30{
+    height: 30px;
+}
+.w250{
+    width: 250px;
+}
+.bg-blue{
+    background: #246abb;
+}
+.main{
+    height: 140px;
+    width: 150px;
+    background: coral;
+}
+.aside{
+    height: 140px;
+    width: 100px;
+    background: lime;
+}
+.tool{
+    display: flex;
+}
