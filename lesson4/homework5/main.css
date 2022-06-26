@@ -1,0 +1,61 @@
+.title {
+    background: deepskyblue;
+    width: 710px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 45px 0;
+}
+
+.h {
+    height: 120px;
+}
+
+.w {
+    width: 300px;
+}
+
+.bg {
+    background: white;
+}
+
+.brdr-rfd {
+    border-radius: 20px;
+}
+
+.h:nth-child(2n) {
+    margin-left: 10px;
+}
+
+.web {
+    font-size: large;
+   margin: 20px 0 0 20px;
+    color: red;
+}
+
+.h {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    padding: 0 0 0 80px;
+
+}
+
+.paragraph1 {
+    margin: 5px 0 0 20px;
+
+}
+
+.h > i {
+    font-size: 30px;
+
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px;
+}
