@@ -1,0 +1,50 @@
+.title{
+    background: aliceblue;
+    height: 400px;
+    width: 1000px;
+
+}
+.main{
+    color: #142d42;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.h{
+    height: 280px;
+}
+.w{
+    width: 250px;
+}
+.border{
+    border: 1px black solid;
+}
+.border2{
+    border: 2px black solid;
+    background: #246abb;
+    text-align: center;
+    margin: 0px 50px 0 50px;
+    padding: 20px;
+    font-size: medium;
+}
+.colomn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.h>i{
+font-size: 30px;
+}
+.f-s{
+    font-size: 20px;
+    margin: 20px;
+}
+.size{
+    font-size: 16px;
+    margin: 10px 10px 15px 10px;
+}
