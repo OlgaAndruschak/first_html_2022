@@ -123,4 +123,97 @@
     align-items: center;
     justify-content: center;
   }
-.
+.main4{
+    font-size: 25px;
+}
+.fifth{
+    width: 800px;
+    background: silver;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.h100{
+    height: 170px;
+    margin-right: 10px;
+}
+.w200{
+    width: 400px;
+}
+.bg_bl{
+    background: #18467b;
+}
+.h170{
+    height: 170px;
+    margin-right: 10px;
+}
+.w15{
+    width: 200px;
+}
+.bg_darkbl{
+    background: #112c3e;
+
+}
+.f1{
+    display: flex;
+}
+.f2{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 20px;
+}
+.sith{
+      width: 800px;
+      height: 80px;
+    background: silver;
+  }
+.main4{
+    margin: 0;
+    text-align: center;
+}
+.seven{
+    width: 800px;
+    background: silver;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+.h180{
+    height: 180px;
+    border-radius: 180px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.w50{
+    width: 180px;
+}
+.kola{
+    display: flex;
+}
+.colona{
+    display: flex;
+    flex-direction: column;
+}
+.slovo{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.eight{
+    width: 800px;
+    background: #142d42;
+    height: 200px;
+    display: flex;
+}
+.love{
+    font-size: 20px;
+    color: white;
+    margin: 0px 0 50px 60px;
+}
+.loove{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    margin-top: 110px;
+}
