@@ -1,0 +1,58 @@
+.main{
+    background: silver;
+    height: 300px;
+    width: 400px;
+    border: 1px black solid;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    width: 390px;
+    height: 50px;
+    background: gray;
+    margin: 5px;
+    border: 1px black solid;
+}
+.head{
+    height: 230px;
+    width: 250px;
+    background: gray;
+    border: 1px black solid;
+    margin-left: 5px;
+}
+.tool{
+    height:230px;
+    width: 150px;
+    background: gray;
+    border: 1px black solid;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.main2{
+    display: flex;
+}
+@media screen and (max-width: 600px){
+    .main{
+        width: 200px;
+        height: 350px;
+        display: flex;
+    }
+    .title{
+        width: 188px;
+        height: 30px;
+    }
+    .head{
+        height: 150px;
+        width: 188px;
+    }
+    .tool{
+        height: 143px;
+        width: 188px;
+        margin-top: 5px;
+    }
+    .main2{
+        display: flex;
+        flex-direction: column;
+    }
+}
