@@ -117,6 +117,7 @@ body{
     font-weight: 400;
     font-size: 16px;
     color: #000000;
+    background: none;
     line-height: 24px;
     border: 1px solid #0B2330;
     border-radius: 4px;
@@ -128,4 +129,112 @@ body{
     -webkit-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 6px 16px 0px rgba(0,0,0,0.75);
 }
-
+.yellow_block{
+    width: 600px;
+    height: 886px;
+    background: #F9C600;
+    margin-bottom: 189px;
+}
+.girl{
+   position: relative;
+   top: 172px;right: 102px;
+}
+.second_block{
+    max-width: 1092px;
+    margin: 0 auto;
+}
+.third_title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 59px;
+}
+.third_titlee{
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+    width: 547px;
+    height: 96px;
+}
+.logo_one{
+    column-gap: 82px;
+    display: flex;
+}
+.marginn_bott{
+    margin-bottom: 192px;
+}
+.mg_bot{
+    margin-bottom: 16px;
+}
+.green_block{
+    max-width: 1376px;
+    height: 494px;
+    margin: 0 auto;
+    background: #51CEBC;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 191px;
+}
+.img_green{
+    margin-top: 58px;
+}
+.green_title{
+    margin-top: 114px;
+    margin-bottom: 35px;
+    width: 557px;
+    height: 120px;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+.green_text{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #0B2330;
+    width: 533px;
+    height: 64px;
+}
+.four_block{
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.four_title{
+    width: 711px;
+    height: 80px;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+    text-align: center;
+    margin-bottom: 57px;
+}
+.button_four{
+    margin-top: 113px;
+    margin-bottom: 160px;
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
+}
+.purple_block_head{
+    max-width: 1376px;
+}
+.purple_block{
+    width: 1260px;
+    height: 537px;
+    background: #BD78F0;
+    border-radius: 10px;
+}
