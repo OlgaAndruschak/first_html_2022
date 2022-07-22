@@ -220,10 +220,6 @@ body{
     margin-bottom: 57px;
 }
 .button_four{
-    margin-top: 113px;
-    margin-bottom: 160px;
-    width: 163px;
-    height: 54px;
     background: #F9C600;
     border: 1px solid #F9C600;
     border-radius: 4px;
@@ -231,6 +227,12 @@ body{
     font-size: 16px;
     line-height: 24px;
     color: #0B2330;
+}
+.pre_button{
+    margin-top: 113px;
+    margin-bottom: 160px;
+    width: 163px;
+    height: 54px;
 }
 .purple_block{
     width: 1260px;
@@ -353,6 +355,7 @@ body{
     display: flex;
     column-gap: 8px;
     margin-top: 18px;
+    margin-bottom: 148px ;
 }
 .buttons{
     background: #E7EAEB;
@@ -378,4 +381,101 @@ body{
 .w152{
     width: 152px;
     color: #0B2330;
+}
+.pink_block{
+    background: #F2EDE7;
+    height: 960px;
+}
+.inside_pink{
+    margin: 0 122px 0 122px;
+    box-sizing: border-box;
+    padding-top: 96px;
+}
+.on_top{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #375361;
+}
+.main_pink_title{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: 0.6px;
+    color: #0B2330;
+    margin-top: 10px;
+    width: 1064px;
+    margin-bottom: 119px;
+}
+.context_side{
+    display: flex;
+    column-gap: 224px;
+}
+.main_text_pink{
+    width: 588px;
+}
+.contextual{
+    border-top: 2px solid #C9316F;
+}
+.title_contextual{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0B2330;
+    margin: 25px 0 25px 0;
+}
+.flex_2{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 5px;
+}
+.other_pink_context{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+    margin-bottom: 36px;
+}
+.mb22{
+    margin-bottom: 22px;
+}
+.learn{
+    display: flex;
+    align-items: baseline;
+}
+.analysis{
+    border-bottom: 2px solid #C3CACD;
+    margin-top: 25px;
+}
+.title_dop_context{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #0B2330;
+    margin-bottom: 23px;
+}
+.five_block{
+    display: flex;
+    justify-content: space-between;
+    margin: 184px 0 0 148px;
+}
+.five_title{
+    margin-top: 15px;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+    width: 669px;
+    margin-bottom: 37px;
+}
+.w667{
+    width: 667px;
+}
+.w208{
+    width: 208px;
+    height: 54px;
+    margin-bottom: 264px;
 }
