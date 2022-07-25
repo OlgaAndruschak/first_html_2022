@@ -387,95 +387,68 @@ body{
     height: 960px;
 }
 .inside_pink{
-    margin: 0 122px 0 122px;
+    margin-left: 122px;
     box-sizing: border-box;
     padding-top: 96px;
+    padding-right: 121px;
 }
 .on_top{
-    font-weight: 400;
     font-size: 14px;
     line-height: 24px;
     letter-spacing: 1.4px;
     text-transform: uppercase;
     color: #375361;
 }
-.main_pink_title{
+.main_pink_title_block{
     font-weight: 400;
     font-size: 60px;
     line-height: 64px;
     letter-spacing: 0.6px;
     color: #0B2330;
-    margin-top: 10px;
     width: 1064px;
-    margin-bottom: 119px;
 }
 .context_side{
-    display: flex;
-    column-gap: 224px;
+     display: flex;
+    column-gap: 223px;
+    margin-top: 122px;
 }
-.main_text_pink{
-    width: 588px;
+.flex_2{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
 }
 .contextual{
-    border-top: 2px solid #C9316F;
+    border-top: 2px #C9316F solid;
 }
 .title_contextual{
     font-weight: 400;
     font-size: 24px;
     line-height: 32px;
     color: #0B2330;
-    margin: 25px 0 25px 0;
-}
-.flex_2{
-    display: flex;
-    justify-content: space-between;
-    column-gap: 5px;
+    margin-top: 25px;
 }
 .other_pink_context{
     font-weight: 400;
     font-size: 17px;
     line-height: 28px;
     color: #375361;
-    margin-bottom: 36px;
+    margin-top: 30px;
 }
-.mb22{
-    margin-bottom: 22px;
+.button_0B{
+    font-size: 16px;
+    line-height: 28px;
+    color: #0B2330;
 }
-.learn{
+.mg_top35{
+    margin-top: 35px;
+    display: flex;
+}
+.learn_analysis{
     display: flex;
     align-items: baseline;
+    column-gap: 8px;
 }
 .analysis{
-    border-bottom: 2px solid #C3CACD;
-    margin-top: 25px;
-}
-.title_dop_context{
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 32px;
-    color: #0B2330;
-    margin-bottom: 23px;
-}
-.five_block{
-    display: flex;
-    justify-content: space-between;
-    margin: 184px 0 0 148px;
-}
-.five_title{
-    margin-top: 15px;
-    font-weight: 400;
-    font-size: 34px;
-    line-height: 40px;
-    letter-spacing: 0.34px;
-    color: #0B2330;
-    width: 669px;
-    margin-bottom: 37px;
-}
-.w667{
-    width: 667px;
-}
-.w208{
-    width: 208px;
-    height: 54px;
-    margin-bottom: 264px;
+    border-top: #C3CACD solid 2px;
+    margin-top: 22px;
 }
