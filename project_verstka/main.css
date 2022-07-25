@@ -452,3 +452,44 @@ body{
     border-top: #C3CACD solid 2px;
     margin-top: 22px;
 }
+.five_block{
+    margin: 184px 0 264px 148px;
+    display: flex;
+    justify-content: space-between;
+}
+.five_title{
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+    width: 669px;
+    margin: 15px 0 37px 0;
+}
+.w667{
+    width: 667px;
+    margin-bottom: 36px;
+}
+.w208{
+    width: 208px;
+    height: 54px;
+}
+.six_block {
+    max-width: 1376px;
+    margin: 0 auto;
+    display: flex;
+}
+.pink_block_left {
+    background: #F2EDE7;
+    border-radius: 10px 0 0 10px;
+    width: 582px;
+}
+.yellow_block_right {
+    background: #F9C600;
+    border-radius: 0 10px 10px 0;
+}
+.invisible{
+   position: relative;
+    bottom: 100px;
+    right: 100px;
+}
