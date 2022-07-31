@@ -6,7 +6,8 @@
     display: flex;
 }
 .header_content_title{
-    font-size: 48px;
+    font-size: 45px;
+    line-height: 55px;
 }
 .text{
     width: 100%;
@@ -15,5 +16,22 @@
 .top_bar,
 .header_content{
     padding: 10px;
+    position: relative;
+}
+.header_content_img{
+    display: none;
+}
+.header_wrap_content{
+    padding-top: 0;
+    padding-bottom: 45px;
+}
+.header_content h4{
+    margin-top: 40px;
+}
+.second_block{
+    width: 488px;
+}
+.img_content_second{
+    margin-top: 100px;
 }
 }
