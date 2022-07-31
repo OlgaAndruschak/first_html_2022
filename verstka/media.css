@@ -1,0 +1,19 @@
+@media screen and (max-width: 488px){
+   .nav_menu{
+       display: none;
+   }
+.mobile_button{
+    display: flex;
+}
+.header_content_title{
+    font-size: 48px;
+}
+.text{
+    width: 100%;
+    min-width: auto;
+}
+.top_bar,
+.header_content{
+    padding: 10px;
+}
+}
