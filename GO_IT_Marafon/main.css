@@ -1,0 +1,77 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 1399px;
+}
+:root{
+    --black-color: #000000;
+    --white-color: #FFFFFF;
+    --gray-color: #595959;
+    --orange-color:#FB6D3A;
+}
+.wrapper{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.left_info{
+    width: 370px;
+    height: 1319px;
+    background: #1E2939;
+}
+.under_wrap{
+    margin: 40px;
+}
+.photo{
+    box-sizing: border-box;
+    padding-top: 40px;
+}
+.contacts_info{
+    margin: 51px 0 47px 40px;
+}
+.inside_div{
+    display: flex;
+    margin-top: 8px;
+    column-gap: 10px;
+}
+.letter{
+    color: var(--white-color);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.number{
+    color: var(--white-color);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    opacity: 0.5;
+}
+.contacts{
+    color: var(--white-color);
+}
+.tech_block,
+.soft_block{
+    margin: 0 209px 44px 40px;
+}
+li{
+    color: var(--orange-color);
+}
+li span,
+.name_block{
+    color: var(--white-color);
+}
+.name_block{
+    width: 121px;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 8px;
+}
+.tech_info{
+    margin-left: 16px;
+}
+.tech_info li{
+    margin-bottom: 8px;
+}
