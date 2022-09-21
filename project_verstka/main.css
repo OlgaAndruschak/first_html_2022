@@ -594,9 +594,43 @@ body{
 }
 .final{
     max-width: 1376px;
+    height: 678px;
     margin: 0 auto;
     border-top: #375361 1px solid;
 }
 .mg_top80{
     margin-top: 80px;
+    display: flex;
+    column-gap: 109px;
+}
+.final_context{
+    display: flex;
+    column-gap: 74px;
+}
+.some_title{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F9C600;
+    margin-bottom: 13px;
+}
+.final_h{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #94A0A4;
+}
+.mg_bott{
+    margin-bottom: 14px;
+}
+.names{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 69px;
+}
+.images{
+    display: flex;
+}
+.img_last{
+    margin-right: 25px;
 }
