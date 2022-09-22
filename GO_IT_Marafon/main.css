@@ -23,6 +23,7 @@ body{
 }
 .under_wrap{
     margin: 40px;
+    display: flex;
 }
 .photo{
     box-sizing: border-box;
@@ -74,4 +75,13 @@ li span,
 }
 .tech_info li{
     margin-bottom: 8px;
+}
+.main_info{
+    margin-left: 88px;
+}
+.head_title{
+    margin: 58px 0 19px 0;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
 }
